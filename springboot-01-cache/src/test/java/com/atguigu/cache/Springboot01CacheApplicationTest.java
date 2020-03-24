@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Springboot01CacheApplicationTests {
+class Springboot01CacheApplicationTests {
 	@Autowired
 	EmployeeMapper employeeMapper;
 
